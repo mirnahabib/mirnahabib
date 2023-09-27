@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mirnahabib
-- 👀 I’m in computer engineering 
-- 🌱 I’m currently learning ... assembly 8086
+- 👀 I’m a Computer Engineer
 - 📫 How to reach me ... mirnahabib1222000@gmail.com
 
 <!---
